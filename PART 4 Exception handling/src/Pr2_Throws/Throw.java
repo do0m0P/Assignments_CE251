@@ -1,6 +1,5 @@
 package Pr2_Throws;
 
-import javax.lang.model.element.ModuleElement;
 
 class SampleException extends Exception{
     SampleException(String s){
